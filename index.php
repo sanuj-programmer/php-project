@@ -60,12 +60,12 @@ function processRating(val, attrVal){
 </style>
 </head>
 <body>
-	<div class="header">
+<div class="header">
 		<div>
-			<a href="index.php" style="text-decoration: none;">
-				<h1>Recipe blog</h1></a>
+			<a href="index.php"><img src="images/logo.png" alt="Logo"></a>
 		</div>
-	
+		
+</div>
 		
 	</div>
 	<div  style="background-color:;margin:auto;min-height:20px;display:<?php echo $none;?>;">
